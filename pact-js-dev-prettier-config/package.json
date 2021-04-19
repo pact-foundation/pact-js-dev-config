@@ -1,0 +1,24 @@
+{
+  "name": "@pact-foundation/pact-js-dev-prettier-config",
+  "version": "1.0.0",
+  "description": "Prettier config for developers working on pact-js and related repositories",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pact-foundation/pact-js-dev-config.git"
+  },
+  "keywords": [
+    "pact",
+    "developers",
+    "maintainers"
+  ],
+  "author": "Timothy Jones",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pact-foundation/pact-js-dev-config/issues"
+  },
+  "homepage": "https://github.com/pact-foundation/pact-js-dev-config#readme"
+}
