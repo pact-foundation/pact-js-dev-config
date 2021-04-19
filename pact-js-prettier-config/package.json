@@ -1,5 +1,5 @@
 {
-  "name": "@pact-foundation/pact-js-dev-prettier-config",
+  "name": "@pact-foundation/pact-js-prettier-config",
   "version": "1.0.0",
   "description": "Prettier config for developers working on pact-js and related repositories",
   "main": "index.js",
